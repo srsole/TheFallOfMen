@@ -1,0 +1,16 @@
+body, html{
+    height: 100%;
+    width: 100%;
+}
+.loginBox{
+    width: 20%;
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    border: 1px solid silver;
+    padding: 20px;
+}
+.menuButton {
+    float: left;
+}
+

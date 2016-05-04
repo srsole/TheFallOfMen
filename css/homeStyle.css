@@ -1,0 +1,17 @@
+.friendsContainer{
+    border: 1px solid silver;
+    height: 70vh;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: 5vh;
+}
+.chatWindow{
+    border: 1px solid silver;
+    border-radius: 5px;
+    height: 70vh;
+    margin-left: 5vh;
+}
+.textEntry{
+    margin-left: 50vh;
+    margin-top: 2vh;
+}

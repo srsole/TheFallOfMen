@@ -1,0 +1,15 @@
+.shopInfoWindow{
+    height: 10vh;
+    margin-right: 25vh;
+}
+.shopShopWindow{
+    border: 1px solid silver;
+    height: 60vh;
+    margin-left: 30px;
+}
+.shopInventoryWindow{
+    border: 1px solid silver;
+    margin-left: 30px;
+    height: 60vh;
+}
+

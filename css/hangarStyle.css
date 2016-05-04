@@ -1,0 +1,31 @@
+.hangarRobotWindow{
+    border: 1px solid silver;
+    height: 60vh;
+}
+.hangarLeftWindow{
+    margin-right: 10px;
+}
+.hangarExperienceWindow{
+    border: 1px solid silver;
+    height: 20vh;
+    margin-top: 5px;
+}
+.hangarImplantSlotsWindow{
+    border: 1px solid silver;
+    height: 20vh;
+}
+.hangarInventoryWindow{
+    border: 1px solid silver;
+    height: 40vh;
+    margin-top: 5px;
+}
+.hangarSkillsWindow{
+    border: 1px solid silver;
+    height: 20vh;
+    margin-top: 5px;
+}
+.hangarInformationColumn{
+    margin-left: 5px;
+    border: 1px solid silver;
+    height: 81vh;
+}

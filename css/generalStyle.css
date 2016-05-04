@@ -1,0 +1,21 @@
+body, html{
+    height: 100%;
+    width: 100%;
+    padding: 2vh;
+}
+.generalMainWindow{
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+}
+.separator1{
+    width: 100%;
+    height: 10vh;
+}
+.menuButton{
+    margin-left: 1px;
+    margin-right: 1px;
+}
+.menuBar{
+    margin-bottom: 20px;
+}

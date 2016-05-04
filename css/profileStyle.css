@@ -1,0 +1,10 @@
+.profilePersonalDataWindow {
+    border: 1px solid silver;
+    height: 80vh;
+    overflow: auto;
+}
+.profileStatisticsWindow{
+    border: 1px solid silver;
+    height: 80vh;
+    margin-left: 10vh;
+}
